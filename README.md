@@ -1,4 +1,10 @@
 # shopping_list
+[![Build status](https://build.appcenter.ms/v0.1/apps/1ad6914f-2440-4666-9998-0acd152b9ab8/branches/main/badge)](https://appcenter.ms)
+
+Public page:
+
+https://install.appcenter.ms/orgs/pbp-deploy/apps/shopping-list/distribution_groups/public
+
 
 A new Flutter project.
 
